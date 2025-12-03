@@ -35,7 +35,7 @@ export default function HomePage() {
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
             <div>
               <h1 className="text-2xl lg:text-3xl font-bold text-slate-100 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
-                Trivex V2X Simulation
+               V2X Simulation
               </h1>
               <p className="text-sm text-slate-400 mt-1">Front-end only prototype • Real-time V2X communication</p>
             </div>
